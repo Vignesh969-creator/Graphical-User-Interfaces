@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024-10-08 10:28:51.244,=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024-10-08 10:28:52.568,=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024-10-08 10:52:05.258,C:\Users\vigne\Desktop\GUI\GuessNumberGame\GuessNumberGame.cpp=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024-10-08 10:52:05.258,C:\Users\vigne\Desktop\GUI\GuessNumberGame\GuessNumberGame.h=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024-10-08 10:52:05.258,C:\Users\vigne\Desktop\GUI\GuessNumberGame\GuessNumberGame.fmx=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024-10-08 10:52:29.754,C:\Users\vigne\Desktop\GUI\GuessNumberGame\GuessNumberGame.PCH1.h=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024-10-08 10:52:29.802,C:\Users\vigne\Desktop\GUI\GuessNumberGame\GuessNumberGame..cbproj=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

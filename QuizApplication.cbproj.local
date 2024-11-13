@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.278,=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,C:\Users\vigne\Desktop\GUI\QuizApplication\Unit1.fmx=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,C:\Users\vigne\Desktop\GUI\QuizApplication\Unit1.cpp=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,C:\Users\vigne\Desktop\GUI\QuizApplication\Unit1.h=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.176,C:\Users\vigne\Desktop\GUI\QuizApplication\QuizApplication.cbproj=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.133,C:\Users\vigne\Desktop\GUI\QuizApplication\QuizApplicationPCH1.h=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.580,=C:\Users\vigne\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

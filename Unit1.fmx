@@ -1,0 +1,60 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object QUESTION: TLabel
+    Position.X = 112.000000000000000000
+    Position.Y = 40.000000000000000000
+    Text = 'QUESTION'
+    TabOrder = 0
+  end
+  object AnswerRadio1: TRadioButton
+    Position.X = 112.000000000000000000
+    Position.Y = 80.000000000000000000
+    TabOrder = 2
+    Text = 'AnswerRadio1'
+    OnChange = AnswerRadio1Change
+    object AnswerRadio2: TRadioButton
+      Position.Y = 56.000000000000000000
+      TabOrder = 2
+      Text = 'AnswerRadio2'
+      OnChange = AnswerRadio2Change
+    end
+  end
+  object AnswerRadio3: TRadioButton
+    Position.X = 112.000000000000000000
+    Position.Y = 208.000000000000000000
+    TabOrder = 1
+    Text = 'AnswerRadio3'
+    OnChange = AnswerRadio3Change
+  end
+  object PointsLabel: TLabel
+    Position.X = 488.000000000000000000
+    Position.Y = 40.000000000000000000
+    Text = 'PointsLabel'
+    TabOrder = 3
+  end
+  object Points: TLabel
+    Position.X = 328.000000000000000000
+    Position.Y = 40.000000000000000000
+    Text = 'Points'
+    TabOrder = 4
+  end
+  object CONFIRM: TButton
+    Position.X = 112.000000000000000000
+    Position.Y = 256.000000000000000000
+    Size.Width = 105.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = 'CONFIRM'
+    TextSettings.Trimming = None
+    OnClick = CONFIRMClick
+  end
+end
